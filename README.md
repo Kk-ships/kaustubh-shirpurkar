@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning everything 🤣 (You always are learning)
 - ⚡ I'm currently working on a MF portfolio viewer [https://github.com/kaustubh-shirpurkar/MF-Analyze](MF-analyze)
-- ⚡ My Latest project is Wine recommendation using DistillBERT [https://github.com/kaustubh-shirpurkar/Kaggle-Notebooks/blob/main/semantic-similarity-wine.ipynb] (Wine recommendation using DistillBERT)
+- ⚡ My Latest project is Wine recommendation using DistillBERT https://github.com/kaustubh-shirpurkar/Kaggle-Notebooks/blob/main/semantic-similarity-wine.ipynb 
 - 👯 I’m looking to gain some working experience in the field of machine learning.
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to click pictures and trek.
