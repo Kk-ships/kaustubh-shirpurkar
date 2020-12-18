@@ -3,7 +3,7 @@
 
 ## I'm a graduate from Texas A&M University currently working in the field of Machine learning, data science and data analytics.  
 
-- 🌱 I’m currently learning everything 🤣 (You always are learning)
+- 🌱 I’m currently learning everything 🤣 (You are always learning)
 - ⚡ I'm currently working on a MF portfolio viewer [https://github.com/kaustubh-shirpurkar/MF-Analyze](MF-analyze)
 - ⚡ My Latest project is Wine recommendation using DistillBERT https://github.com/kaustubh-shirpurkar/Kaggle-Notebooks/blob/main/semantic-similarity-wine.ipynb 
 - 👯 I’m looking to gain some working experience in the field of machine learning.
